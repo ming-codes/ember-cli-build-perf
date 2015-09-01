@@ -1,3 +1,6 @@
-<h2 id="title">Welcome to Ember</h2>
-
-{{outlet}}
+{{#data-visual as |svg width height|}}
+  {{!broccoli-chord select=svg.cluster width=width height=height data=model}}
+  {{#broccoli-graph select=svg.cluster width=width height=height data=model as |scale width height|}}
+    {{!cart-axis select=svg.bucket-axis transform=(translate 0 height) scale=scale}}
+  {{/broccoli-graph}}
+{{/data-visual}}

@@ -1,0 +1,1908 @@
+[
+  {
+    "id": 0,
+    "description": "BroccoliMergeTrees",
+    "subtrees": [
+      1,
+      8,
+      167,
+      189,
+      193,
+      212,
+      214
+    ],
+    "selfTime": 39507090,
+    "totalTime": 3670017235
+  },
+  {
+    "id": 1,
+    "description": "CustomReplace",
+    "subtrees": [
+      2,
+      5
+    ],
+    "selfTime": 2556829,
+    "totalTime": 41442762
+  },
+  {
+    "id": 2,
+    "description": "Funnel: index.html",
+    "subtrees": [
+      3
+    ],
+    "selfTime": 13502518,
+    "totalTime": 19717358
+  },
+  {
+    "id": 3,
+    "description": "WatchedDir",
+    "subtrees": [
+      4
+    ],
+    "selfTime": 206869,
+    "totalTime": 5926525
+  },
+  {
+    "id": 4,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 5,
+    "description": "Funnel",
+    "subtrees": [
+      6
+    ],
+    "selfTime": 2887624,
+    "totalTime": 18504794
+  },
+  {
+    "id": 6,
+    "description": "ConfigLoader",
+    "subtrees": [
+      7
+    ],
+    "selfTime": 12013380,
+    "totalTime": 15452854
+  },
+  {
+    "id": 7,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 8,
+    "description": "TreeMerger (vendor & appJS)",
+    "subtrees": [
+      9,
+      163
+    ],
+    "selfTime": 2112047,
+    "totalTime": 3519163599
+  },
+  {
+    "id": 9,
+    "description": "Concat: Vendor",
+    "subtrees": [
+      10
+    ],
+    "selfTime": 2965946857,
+    "totalTime": 3467201295
+  },
+  {
+    "id": 10,
+    "description": "BroccoliMergeTrees",
+    "subtrees": [
+      11,
+      81,
+      111,
+      5,
+      133,
+      154,
+      157,
+      160
+    ],
+    "selfTime": 13113724,
+    "totalTime": 493581336
+  },
+  {
+    "id": 11,
+    "description": "TreeMerger (ExternalTree)",
+    "subtrees": [
+      12,
+      14
+    ],
+    "selfTime": 1981770,
+    "totalTime": 219178443
+  },
+  {
+    "id": 12,
+    "description": "Funnel",
+    "subtrees": [
+      13
+    ],
+    "selfTime": 1837450,
+    "totalTime": 6075493
+  },
+  {
+    "id": 13,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 14,
+    "description": "Funnel",
+    "subtrees": [
+      15
+    ],
+    "selfTime": 1403593,
+    "totalTime": 211071535
+  },
+  {
+    "id": 15,
+    "description": "TreeMerger (vendor)",
+    "subtrees": [
+      16,
+      53,
+      58,
+      61,
+      62,
+      64,
+      65,
+      66,
+      68,
+      71,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "selfTime": 5521243,
+    "totalTime": 209647375
+  },
+  {
+    "id": 16,
+    "description": "Concat: Addon CSS",
+    "subtrees": [
+      17
+    ],
+    "selfTime": 9660105,
+    "totalTime": 126751576
+  },
+  {
+    "id": 17,
+    "description": "TreeMerger (addons)",
+    "subtrees": [
+      18,
+      25,
+      26,
+      41,
+      42,
+      43,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "selfTime": 4268570,
+    "totalTime": 117068745
+  },
+  {
+    "id": 18,
+    "description": "Addon#treeFor (ember-cli-content-security-policy - addon)",
+    "subtrees": [
+      19
+    ],
+    "selfTime": 1056866,
+    "totalTime": 11659367
+  },
+  {
+    "id": 19,
+    "description": "Addon#treeForAddon(ember-cli-content-security-policy)",
+    "subtrees": [
+      20
+    ],
+    "selfTime": 1673104,
+    "totalTime": 10492599
+  },
+  {
+    "id": 20,
+    "description": "Addon#compileAddon(ember-cli-content-security-policy) ",
+    "subtrees": [
+      21,
+      24
+    ],
+    "selfTime": 1893882,
+    "totalTime": 8789343
+  },
+  {
+    "id": 21,
+    "description": "Funnel: Addon JS",
+    "subtrees": [
+      22
+    ],
+    "selfTime": 1901671,
+    "totalTime": 6280157
+  },
+  {
+    "id": 22,
+    "description": "WatchedDir",
+    "subtrees": [
+      23
+    ],
+    "selfTime": 550071,
+    "totalTime": 4352525
+  },
+  {
+    "id": 23,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 24,
+    "description": "Reexporter",
+    "subtrees": [],
+    "selfTime": 554660,
+    "totalTime": 554660
+  },
+  {
+    "id": 25,
+    "description": "Addon#treeFor (live-reload-middleware - addon)",
+    "subtrees": [],
+    "selfTime": 580939,
+    "totalTime": 580939
+  },
+  {
+    "id": 26,
+    "description": "Addon#treeFor (ember-cli-app-version - addon)",
+    "subtrees": [
+      27,
+      28
+    ],
+    "selfTime": 1315573,
+    "totalTime": 93217388
+  },
+  {
+    "id": 27,
+    "description": "Addon#treeFor (ember-cli-htmlbars - addon)",
+    "subtrees": [],
+    "selfTime": 375992,
+    "totalTime": 375992
+  },
+  {
+    "id": 28,
+    "description": "Addon#treeForAddon(ember-cli-app-version)",
+    "subtrees": [
+      29
+    ],
+    "selfTime": 1091605,
+    "totalTime": 91491389
+  },
+  {
+    "id": 29,
+    "description": "Addon#compileAddon(ember-cli-app-version) ",
+    "subtrees": [
+      30,
+      34,
+      40
+    ],
+    "selfTime": 2026793,
+    "totalTime": 90376595
+  },
+  {
+    "id": 30,
+    "description": "Babel",
+    "subtrees": [
+      31
+    ],
+    "selfTime": 45718427,
+    "totalTime": 51197382
+  },
+  {
+    "id": 31,
+    "description": "Funnel: Addon JS",
+    "subtrees": [
+      32
+    ],
+    "selfTime": 1679177,
+    "totalTime": 5234960
+  },
+  {
+    "id": 32,
+    "description": "WatchedDir",
+    "subtrees": [
+      33
+    ],
+    "selfTime": 86266,
+    "totalTime": 3533441
+  },
+  {
+    "id": 33,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 34,
+    "description": "TemplateCompiler",
+    "subtrees": [
+      35
+    ],
+    "selfTime": 28329390,
+    "totalTime": 36323590
+  },
+  {
+    "id": 35,
+    "description": "compileTemplates(ember-cli-app-version)",
+    "subtrees": [
+      36,
+      39
+    ],
+    "selfTime": 1117772,
+    "totalTime": 7447000
+  },
+  {
+    "id": 36,
+    "description": "Funnel",
+    "subtrees": [
+      37
+    ],
+    "selfTime": 1795098,
+    "totalTime": 4137258
+  },
+  {
+    "id": 37,
+    "description": "WatchedDir",
+    "subtrees": [
+      38
+    ],
+    "selfTime": 310010,
+    "totalTime": 2321880
+  },
+  {
+    "id": 38,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 39,
+    "description": "Funnel",
+    "subtrees": [
+      32
+    ],
+    "selfTime": 2083983,
+    "totalTime": 2146357
+  },
+  {
+    "id": 40,
+    "description": "Reexporter",
+    "subtrees": [],
+    "selfTime": 718097,
+    "totalTime": 718097
+  },
+  {
+    "id": 41,
+    "description": "Addon#treeFor (ember-cli-dependency-checker - addon)",
+    "subtrees": [],
+    "selfTime": 438929,
+    "totalTime": 438929
+  },
+  {
+    "id": 42,
+    "description": "Addon#treeFor (ember-cli-htmlbars - addon)",
+    "subtrees": [],
+    "selfTime": 501944,
+    "totalTime": 501944
+  },
+  {
+    "id": 43,
+    "description": "Addon#treeFor (ember-cli-htmlbars-inline-precompile - addon)",
+    "subtrees": [
+      44
+    ],
+    "selfTime": 820999,
+    "totalTime": 1231582
+  },
+  {
+    "id": 44,
+    "description": "Addon#treeFor (ember-cli-htmlbars - addon)",
+    "subtrees": [],
+    "selfTime": 393043,
+    "totalTime": 393043
+  },
+  {
+    "id": 45,
+    "description": "Addon#treeFor (Ember CLI ic-ajax - addon)",
+    "subtrees": [],
+    "selfTime": 518909,
+    "totalTime": 518909
+  },
+  {
+    "id": 46,
+    "description": "Addon#treeFor (Ember CLI QUnit - addon)",
+    "subtrees": [],
+    "selfTime": 624517,
+    "totalTime": 624517
+  },
+  {
+    "id": 47,
+    "description": "Addon#treeFor (ember-cli-release - addon)",
+    "subtrees": [],
+    "selfTime": 1002480,
+    "totalTime": 1002480
+  },
+  {
+    "id": 48,
+    "description": "Addon#treeFor (ember-cli-uglify - addon)",
+    "subtrees": [],
+    "selfTime": 439498,
+    "totalTime": 439498
+  },
+  {
+    "id": 49,
+    "description": "Addon#treeFor (ember-cli-sri - addon)",
+    "subtrees": [],
+    "selfTime": 370269,
+    "totalTime": 370269
+  },
+  {
+    "id": 50,
+    "description": "Addon#treeFor (ember-data - addon)",
+    "subtrees": [],
+    "selfTime": 378366,
+    "totalTime": 378366
+  },
+  {
+    "id": 51,
+    "description": "Addon#treeFor (ember-disable-proxy-controllers - addon)",
+    "subtrees": [],
+    "selfTime": 382308,
+    "totalTime": 382308
+  },
+  {
+    "id": 52,
+    "description": "Addon#treeFor (ember-export-application-global - addon)",
+    "subtrees": [],
+    "selfTime": 364368,
+    "totalTime": 364368
+  },
+  {
+    "id": 53,
+    "description": "Concat: Addon JS",
+    "subtrees": [
+      54
+    ],
+    "selfTime": 7618929,
+    "totalTime": 58617227
+  },
+  {
+    "id": 54,
+    "description": "TreeMerger: (re-exports)",
+    "subtrees": [
+      55,
+      57
+    ],
+    "selfTime": 2477612,
+    "totalTime": 50974982
+  },
+  {
+    "id": 55,
+    "description": "ES6: Addon Trees",
+    "subtrees": [
+      56
+    ],
+    "selfTime": 45353606,
+    "totalTime": 47544017
+  },
+  {
+    "id": 56,
+    "description": "Funnel: Addon JS",
+    "subtrees": [
+      17
+    ],
+    "selfTime": 2070417,
+    "totalTime": 2149977
+  },
+  {
+    "id": 57,
+    "description": "Funnel: Addon Re-exports",
+    "subtrees": [
+      17
+    ],
+    "selfTime": 817766,
+    "totalTime": 832786
+  },
+  {
+    "id": 58,
+    "description": "Addon#treeFor (ember-cli-content-security-policy - vendor)",
+    "subtrees": [
+      59
+    ],
+    "selfTime": 1777447,
+    "totalTime": 3877997
+  },
+  {
+    "id": 59,
+    "description": "WatchedDir",
+    "subtrees": [
+      60
+    ],
+    "selfTime": 23831,
+    "totalTime": 2061914
+  },
+  {
+    "id": 60,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 61,
+    "description": "Addon#treeFor (live-reload-middleware - vendor)",
+    "subtrees": [],
+    "selfTime": 521939,
+    "totalTime": 521939
+  },
+  {
+    "id": 62,
+    "description": "Addon#treeFor (ember-cli-app-version - vendor)",
+    "subtrees": [
+      63
+    ],
+    "selfTime": 689231,
+    "totalTime": 1090649
+  },
+  {
+    "id": 63,
+    "description": "Addon#treeFor (ember-cli-htmlbars - vendor)",
+    "subtrees": [],
+    "selfTime": 386734,
+    "totalTime": 386734
+  },
+  {
+    "id": 64,
+    "description": "Addon#treeFor (ember-cli-dependency-checker - vendor)",
+    "subtrees": [],
+    "selfTime": 385888,
+    "totalTime": 385888
+  },
+  {
+    "id": 65,
+    "description": "Addon#treeFor (ember-cli-htmlbars - vendor)",
+    "subtrees": [],
+    "selfTime": 401689,
+    "totalTime": 401689
+  },
+  {
+    "id": 66,
+    "description": "Addon#treeFor (ember-cli-htmlbars-inline-precompile - vendor)",
+    "subtrees": [
+      67
+    ],
+    "selfTime": 708789,
+    "totalTime": 1805085
+  },
+  {
+    "id": 67,
+    "description": "Addon#treeFor (ember-cli-htmlbars - vendor)",
+    "subtrees": [],
+    "selfTime": 1079372,
+    "totalTime": 1079372
+  },
+  {
+    "id": 68,
+    "description": "Addon#treeFor (Ember CLI ic-ajax - vendor)",
+    "subtrees": [
+      69
+    ],
+    "selfTime": 1051619,
+    "totalTime": 3195968
+  },
+  {
+    "id": 69,
+    "description": "WatchedDir",
+    "subtrees": [
+      70
+    ],
+    "selfTime": 24257,
+    "totalTime": 2126757
+  },
+  {
+    "id": 70,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 71,
+    "description": "Addon#treeFor (Ember CLI QUnit - vendor)",
+    "subtrees": [
+      72
+    ],
+    "selfTime": 1167872,
+    "totalTime": 3018970
+  },
+  {
+    "id": 72,
+    "description": "WatchedDir",
+    "subtrees": [
+      73
+    ],
+    "selfTime": 13233,
+    "totalTime": 1833871
+  },
+  {
+    "id": 73,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 74,
+    "description": "Addon#treeFor (ember-cli-release - vendor)",
+    "subtrees": [],
+    "selfTime": 625619,
+    "totalTime": 625619
+  },
+  {
+    "id": 75,
+    "description": "Addon#treeFor (ember-cli-uglify - vendor)",
+    "subtrees": [],
+    "selfTime": 485651,
+    "totalTime": 485651
+  },
+  {
+    "id": 76,
+    "description": "Addon#treeFor (ember-cli-sri - vendor)",
+    "subtrees": [],
+    "selfTime": 768412,
+    "totalTime": 768412
+  },
+  {
+    "id": 77,
+    "description": "Addon#treeFor (ember-data - vendor)",
+    "subtrees": [],
+    "selfTime": 453989,
+    "totalTime": 453989
+  },
+  {
+    "id": 78,
+    "description": "Addon#treeFor (ember-disable-proxy-controllers - vendor)",
+    "subtrees": [],
+    "selfTime": 448762,
+    "totalTime": 448762
+  },
+  {
+    "id": 79,
+    "description": "Addon#treeFor (ember-export-application-global - vendor)",
+    "subtrees": [],
+    "selfTime": 883386,
+    "totalTime": 883386
+  },
+  {
+    "id": 80,
+    "description": "UnwatchedDir",
+    "subtrees": [],
+    "selfTime": 48341,
+    "totalTime": 48341
+  },
+  {
+    "id": 81,
+    "description": "Babel",
+    "subtrees": [
+      82
+    ],
+    "selfTime": 33380330,
+    "totalTime": 75214971
+  },
+  {
+    "id": 82,
+    "description": "Funnel",
+    "subtrees": [
+      83
+    ],
+    "selfTime": 1644434,
+    "totalTime": 41786935
+  },
+  {
+    "id": 83,
+    "description": "TreeMerger (app)",
+    "subtrees": [
+      84,
+      87,
+      88,
+      92,
+      93,
+      94,
+      96,
+      97,
+      98,
+      99,
+      100,
+      103,
+      104,
+      107,
+      110
+    ],
+    "selfTime": 9892132,
+    "totalTime": 40106638
+  },
+  {
+    "id": 84,
+    "description": "Addon#treeFor (ember-cli-content-security-policy - app)",
+    "subtrees": [
+      85
+    ],
+    "selfTime": 935697,
+    "totalTime": 4340194
+  },
+  {
+    "id": 85,
+    "description": "WatchedDir",
+    "subtrees": [
+      86
+    ],
+    "selfTime": 13627,
+    "totalTime": 3387441
+  },
+  {
+    "id": 86,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 87,
+    "description": "Addon#treeFor (live-reload-middleware - app)",
+    "subtrees": [],
+    "selfTime": 607703,
+    "totalTime": 607703
+  },
+  {
+    "id": 88,
+    "description": "Addon#treeFor (ember-cli-app-version - app)",
+    "subtrees": [
+      89,
+      90
+    ],
+    "selfTime": 1210494,
+    "totalTime": 3465449
+  },
+  {
+    "id": 89,
+    "description": "Addon#treeFor (ember-cli-htmlbars - app)",
+    "subtrees": [],
+    "selfTime": 385964,
+    "totalTime": 385964
+  },
+  {
+    "id": 90,
+    "description": "WatchedDir",
+    "subtrees": [
+      91
+    ],
+    "selfTime": 17659,
+    "totalTime": 1830434
+  },
+  {
+    "id": 91,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 92,
+    "description": "Addon#treeFor (ember-cli-dependency-checker - app)",
+    "subtrees": [],
+    "selfTime": 1940362,
+    "totalTime": 1940362
+  },
+  {
+    "id": 93,
+    "description": "Addon#treeFor (ember-cli-htmlbars - app)",
+    "subtrees": [],
+    "selfTime": 748324,
+    "totalTime": 748324
+  },
+  {
+    "id": 94,
+    "description": "Addon#treeFor (ember-cli-htmlbars-inline-precompile - app)",
+    "subtrees": [
+      95
+    ],
+    "selfTime": 1816511,
+    "totalTime": 2790602
+  },
+  {
+    "id": 95,
+    "description": "Addon#treeFor (ember-cli-htmlbars - app)",
+    "subtrees": [],
+    "selfTime": 941618,
+    "totalTime": 941618
+  },
+  {
+    "id": 96,
+    "description": "Addon#treeFor (Ember CLI ic-ajax - app)",
+    "subtrees": [],
+    "selfTime": 783623,
+    "totalTime": 783623
+  },
+  {
+    "id": 97,
+    "description": "Addon#treeFor (Ember CLI QUnit - app)",
+    "subtrees": [],
+    "selfTime": 642658,
+    "totalTime": 642658
+  },
+  {
+    "id": 98,
+    "description": "Addon#treeFor (ember-cli-release - app)",
+    "subtrees": [],
+    "selfTime": 625726,
+    "totalTime": 625726
+  },
+  {
+    "id": 99,
+    "description": "Addon#treeFor (ember-cli-uglify - app)",
+    "subtrees": [],
+    "selfTime": 587622,
+    "totalTime": 587622
+  },
+  {
+    "id": 100,
+    "description": "Addon#treeFor (ember-cli-sri - app)",
+    "subtrees": [
+      101
+    ],
+    "selfTime": 1112225,
+    "totalTime": 2867096
+  },
+  {
+    "id": 101,
+    "description": "WatchedDir",
+    "subtrees": [
+      102
+    ],
+    "selfTime": 15178,
+    "totalTime": 1738074
+  },
+  {
+    "id": 102,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 103,
+    "description": "Addon#treeFor (ember-data - app)",
+    "subtrees": [],
+    "selfTime": 756336,
+    "totalTime": 756336
+  },
+  {
+    "id": 104,
+    "description": "Addon#treeFor (ember-disable-proxy-controllers - app)",
+    "subtrees": [
+      105
+    ],
+    "selfTime": 1143382,
+    "totalTime": 3006993
+  },
+  {
+    "id": 105,
+    "description": "WatchedDir",
+    "subtrees": [
+      106
+    ],
+    "selfTime": 19194,
+    "totalTime": 1837649
+  },
+  {
+    "id": 106,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 107,
+    "description": "Addon#treeFor (ember-export-application-global - app)",
+    "subtrees": [
+      108
+    ],
+    "selfTime": 904262,
+    "totalTime": 2539108
+  },
+  {
+    "id": 108,
+    "description": "WatchedDir",
+    "subtrees": [
+      109
+    ],
+    "selfTime": 14724,
+    "totalTime": 1618107
+  },
+  {
+    "id": 109,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 110,
+    "description": "Funnel: Filtered App",
+    "subtrees": [
+      3
+    ],
+    "selfTime": 4068160,
+    "totalTime": 4086113
+  },
+  {
+    "id": 111,
+    "description": "TemplateCompiler",
+    "subtrees": [
+      112
+    ],
+    "selfTime": 57051489,
+    "totalTime": 74946887
+  },
+  {
+    "id": 112,
+    "description": "addonPreprocessTree(template)",
+    "subtrees": [
+      113,
+      132
+    ],
+    "selfTime": 1197695,
+    "totalTime": 17628556
+  },
+  {
+    "id": 113,
+    "description": "Funnel",
+    "subtrees": [
+      114
+    ],
+    "selfTime": 1468777,
+    "totalTime": 14750866
+  },
+  {
+    "id": 114,
+    "description": "TreeMerger (templates)",
+    "subtrees": [
+      115,
+      116,
+      117,
+      119,
+      120,
+      121,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "selfTime": 4032540,
+    "totalTime": 13255135
+  },
+  {
+    "id": 115,
+    "description": "Addon#treeFor (ember-cli-content-security-policy - templates)",
+    "subtrees": [],
+    "selfTime": 417094,
+    "totalTime": 417094
+  },
+  {
+    "id": 116,
+    "description": "Addon#treeFor (live-reload-middleware - templates)",
+    "subtrees": [],
+    "selfTime": 401010,
+    "totalTime": 401010
+  },
+  {
+    "id": 117,
+    "description": "Addon#treeFor (ember-cli-app-version - templates)",
+    "subtrees": [
+      118
+    ],
+    "selfTime": 697588,
+    "totalTime": 1119193
+  },
+  {
+    "id": 118,
+    "description": "Addon#treeFor (ember-cli-htmlbars - templates)",
+    "subtrees": [],
+    "selfTime": 404827,
+    "totalTime": 404827
+  },
+  {
+    "id": 119,
+    "description": "Addon#treeFor (ember-cli-dependency-checker - templates)",
+    "subtrees": [],
+    "selfTime": 779446,
+    "totalTime": 779446
+  },
+  {
+    "id": 120,
+    "description": "Addon#treeFor (ember-cli-htmlbars - templates)",
+    "subtrees": [],
+    "selfTime": 649082,
+    "totalTime": 649082
+  },
+  {
+    "id": 121,
+    "description": "Addon#treeFor (ember-cli-htmlbars-inline-precompile - templates)",
+    "subtrees": [
+      122
+    ],
+    "selfTime": 742047,
+    "totalTime": 1154344
+  },
+  {
+    "id": 122,
+    "description": "Addon#treeFor (ember-cli-htmlbars - templates)",
+    "subtrees": [],
+    "selfTime": 392832,
+    "totalTime": 392832
+  },
+  {
+    "id": 123,
+    "description": "Addon#treeFor (Ember CLI ic-ajax - templates)",
+    "subtrees": [],
+    "selfTime": 414057,
+    "totalTime": 414057
+  },
+  {
+    "id": 124,
+    "description": "Addon#treeFor (Ember CLI QUnit - templates)",
+    "subtrees": [],
+    "selfTime": 402962,
+    "totalTime": 402962
+  },
+  {
+    "id": 125,
+    "description": "Addon#treeFor (ember-cli-release - templates)",
+    "subtrees": [],
+    "selfTime": 401669,
+    "totalTime": 401669
+  },
+  {
+    "id": 126,
+    "description": "Addon#treeFor (ember-cli-uglify - templates)",
+    "subtrees": [],
+    "selfTime": 510284,
+    "totalTime": 510284
+  },
+  {
+    "id": 127,
+    "description": "Addon#treeFor (ember-cli-sri - templates)",
+    "subtrees": [],
+    "selfTime": 452306,
+    "totalTime": 452306
+  },
+  {
+    "id": 128,
+    "description": "Addon#treeFor (ember-data - templates)",
+    "subtrees": [],
+    "selfTime": 418476,
+    "totalTime": 418476
+  },
+  {
+    "id": 129,
+    "description": "Addon#treeFor (ember-disable-proxy-controllers - templates)",
+    "subtrees": [],
+    "selfTime": 552116,
+    "totalTime": 552116
+  },
+  {
+    "id": 130,
+    "description": "Addon#treeFor (ember-export-application-global - templates)",
+    "subtrees": [],
+    "selfTime": 621943,
+    "totalTime": 621943
+  },
+  {
+    "id": 131,
+    "description": "UnwatchedDir",
+    "subtrees": [],
+    "selfTime": 16936,
+    "totalTime": 16936
+  },
+  {
+    "id": 132,
+    "description": "Funnel",
+    "subtrees": [
+      3
+    ],
+    "selfTime": 1614596,
+    "totalTime": 1638657
+  },
+  {
+    "id": 133,
+    "description": "Babel",
+    "subtrees": [
+      134
+    ],
+    "selfTime": 9241081,
+    "totalTime": 25645045
+  },
+  {
+    "id": 134,
+    "description": "Funnel",
+    "subtrees": [
+      135
+    ],
+    "selfTime": 1572781,
+    "totalTime": 16377001
+  },
+  {
+    "id": 135,
+    "description": "TreeMerger (tests)",
+    "subtrees": [
+      136,
+      137,
+      138,
+      140,
+      141,
+      142,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152
+    ],
+    "selfTime": 4261876,
+    "totalTime": 14779977
+  },
+  {
+    "id": 136,
+    "description": "Addon#treeFor (ember-cli-content-security-policy - test-support)",
+    "subtrees": [],
+    "selfTime": 453630,
+    "totalTime": 453630
+  },
+  {
+    "id": 137,
+    "description": "Addon#treeFor (live-reload-middleware - test-support)",
+    "subtrees": [],
+    "selfTime": 539570,
+    "totalTime": 539570
+  },
+  {
+    "id": 138,
+    "description": "Addon#treeFor (ember-cli-app-version - test-support)",
+    "subtrees": [
+      139
+    ],
+    "selfTime": 824332,
+    "totalTime": 1627854
+  },
+  {
+    "id": 139,
+    "description": "Addon#treeFor (ember-cli-htmlbars - test-support)",
+    "subtrees": [],
+    "selfTime": 785728,
+    "totalTime": 785728
+  },
+  {
+    "id": 140,
+    "description": "Addon#treeFor (ember-cli-dependency-checker - test-support)",
+    "subtrees": [],
+    "selfTime": 436206,
+    "totalTime": 436206
+  },
+  {
+    "id": 141,
+    "description": "Addon#treeFor (ember-cli-htmlbars - test-support)",
+    "subtrees": [],
+    "selfTime": 378754,
+    "totalTime": 378754
+  },
+  {
+    "id": 142,
+    "description": "Addon#treeFor (ember-cli-htmlbars-inline-precompile - test-support)",
+    "subtrees": [
+      143
+    ],
+    "selfTime": 619546,
+    "totalTime": 979950
+  },
+  {
+    "id": 143,
+    "description": "Addon#treeFor (ember-cli-htmlbars - test-support)",
+    "subtrees": [],
+    "selfTime": 344926,
+    "totalTime": 344926
+  },
+  {
+    "id": 144,
+    "description": "Addon#treeFor (Ember CLI ic-ajax - test-support)",
+    "subtrees": [],
+    "selfTime": 654485,
+    "totalTime": 654485
+  },
+  {
+    "id": 145,
+    "description": "Addon#treeFor (Ember CLI QUnit - test-support)",
+    "subtrees": [],
+    "selfTime": 515902,
+    "totalTime": 515902
+  },
+  {
+    "id": 146,
+    "description": "Addon#treeFor (ember-cli-release - test-support)",
+    "subtrees": [],
+    "selfTime": 385218,
+    "totalTime": 385218
+  },
+  {
+    "id": 147,
+    "description": "Addon#treeFor (ember-cli-uglify - test-support)",
+    "subtrees": [],
+    "selfTime": 342259,
+    "totalTime": 342259
+  },
+  {
+    "id": 148,
+    "description": "Addon#treeFor (ember-cli-sri - test-support)",
+    "subtrees": [],
+    "selfTime": 363796,
+    "totalTime": 363796
+  },
+  {
+    "id": 149,
+    "description": "Addon#treeFor (ember-data - test-support)",
+    "subtrees": [],
+    "selfTime": 359726,
+    "totalTime": 359726
+  },
+  {
+    "id": 150,
+    "description": "Addon#treeFor (ember-disable-proxy-controllers - test-support)",
+    "subtrees": [],
+    "selfTime": 354233,
+    "totalTime": 354233
+  },
+  {
+    "id": 151,
+    "description": "Addon#treeFor (ember-export-application-global - test-support)",
+    "subtrees": [],
+    "selfTime": 557380,
+    "totalTime": 557380
+  },
+  {
+    "id": 152,
+    "description": "WatchedDir",
+    "subtrees": [
+      153
+    ],
+    "selfTime": 11881,
+    "totalTime": 2317958
+  },
+  {
+    "id": 153,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 154,
+    "description": "Funnel",
+    "subtrees": [
+      155
+    ],
+    "selfTime": 1963330,
+    "totalTime": 63604789
+  },
+  {
+    "id": 155,
+    "description": "TreeMerger (lint)",
+    "subtrees": [
+      156
+    ],
+    "selfTime": 1762151,
+    "totalTime": 61621004
+  },
+  {
+    "id": 156,
+    "description": "JSHint app- QUnit",
+    "subtrees": [
+      110
+    ],
+    "selfTime": 59588950,
+    "totalTime": 59823211
+  },
+  {
+    "id": 157,
+    "description": "Funnel",
+    "subtrees": [
+      158
+    ],
+    "selfTime": 2033646,
+    "totalTime": 18036597
+  },
+  {
+    "id": 158,
+    "description": "TreeMerger (lint)",
+    "subtrees": [
+      159
+    ],
+    "selfTime": 1346381,
+    "totalTime": 15984951
+  },
+  {
+    "id": 159,
+    "description": "JSHint tests- QUnit",
+    "subtrees": [
+      152
+    ],
+    "selfTime": 14581051,
+    "totalTime": 14616622
+  },
+  {
+    "id": 160,
+    "description": "Funnel",
+    "subtrees": [
+      161
+    ],
+    "selfTime": 1480954,
+    "totalTime": 3575792
+  },
+  {
+    "id": 161,
+    "description": "CustomReplace",
+    "subtrees": [
+      162,
+      5
+    ],
+    "selfTime": 2015836,
+    "totalTime": 2073216
+  },
+  {
+    "id": 162,
+    "description": "UnwatchedDir",
+    "subtrees": [],
+    "selfTime": 9219,
+    "totalTime": 9219
+  },
+  {
+    "id": 163,
+    "description": "Concat: App",
+    "subtrees": [
+      164
+    ],
+    "selfTime": 8633959,
+    "totalTime": 49530046
+  },
+  {
+    "id": 164,
+    "description": "TreeMerger (appJS  & processedEmberCLITree)",
+    "subtrees": [
+      165,
+      160
+    ],
+    "selfTime": 2079293,
+    "totalTime": 40857831
+  },
+  {
+    "id": 165,
+    "description": "ES6: App Tree",
+    "subtrees": [
+      166
+    ],
+    "selfTime": 31783486,
+    "totalTime": 38725661
+  },
+  {
+    "id": 166,
+    "description": "Funnel: App JS Files",
+    "subtrees": [
+      10
+    ],
+    "selfTime": 6855261,
+    "totalTime": 6886889
+  },
+  {
+    "id": 167,
+    "description": "styles",
+    "subtrees": [
+      168,
+      188
+    ],
+    "selfTime": 1329544,
+    "totalTime": 15424049
+  },
+  {
+    "id": 168,
+    "description": "Funnel",
+    "subtrees": [
+      169
+    ],
+    "selfTime": 955101,
+    "totalTime": 12581077
+  },
+  {
+    "id": 169,
+    "description": "TreeMerger (stylesAndVendor)",
+    "subtrees": [
+      11,
+      170,
+      171,
+      172,
+      174,
+      175,
+      176,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186
+    ],
+    "selfTime": 3544627,
+    "totalTime": 11609291
+  },
+  {
+    "id": 170,
+    "description": "Addon#treeFor (ember-cli-content-security-policy - styles)",
+    "subtrees": [],
+    "selfTime": 489301,
+    "totalTime": 489301
+  },
+  {
+    "id": 171,
+    "description": "Addon#treeFor (live-reload-middleware - styles)",
+    "subtrees": [],
+    "selfTime": 375616,
+    "totalTime": 375616
+  },
+  {
+    "id": 172,
+    "description": "Addon#treeFor (ember-cli-app-version - styles)",
+    "subtrees": [
+      173
+    ],
+    "selfTime": 486722,
+    "totalTime": 1191165
+  },
+  {
+    "id": 173,
+    "description": "Addon#treeFor (ember-cli-htmlbars - styles)",
+    "subtrees": [],
+    "selfTime": 690518,
+    "totalTime": 690518
+  },
+  {
+    "id": 174,
+    "description": "Addon#treeFor (ember-cli-dependency-checker - styles)",
+    "subtrees": [],
+    "selfTime": 364968,
+    "totalTime": 364968
+  },
+  {
+    "id": 175,
+    "description": "Addon#treeFor (ember-cli-htmlbars - styles)",
+    "subtrees": [],
+    "selfTime": 425520,
+    "totalTime": 425520
+  },
+  {
+    "id": 176,
+    "description": "Addon#treeFor (ember-cli-htmlbars-inline-precompile - styles)",
+    "subtrees": [
+      177
+    ],
+    "selfTime": 539784,
+    "totalTime": 844726
+  },
+  {
+    "id": 177,
+    "description": "Addon#treeFor (ember-cli-htmlbars - styles)",
+    "subtrees": [],
+    "selfTime": 291182,
+    "totalTime": 291182
+  },
+  {
+    "id": 178,
+    "description": "Addon#treeFor (Ember CLI ic-ajax - styles)",
+    "subtrees": [],
+    "selfTime": 376595,
+    "totalTime": 376595
+  },
+  {
+    "id": 179,
+    "description": "Addon#treeFor (Ember CLI QUnit - styles)",
+    "subtrees": [],
+    "selfTime": 350169,
+    "totalTime": 350169
+  },
+  {
+    "id": 180,
+    "description": "Addon#treeFor (ember-cli-release - styles)",
+    "subtrees": [],
+    "selfTime": 334933,
+    "totalTime": 334933
+  },
+  {
+    "id": 181,
+    "description": "Addon#treeFor (ember-cli-uglify - styles)",
+    "subtrees": [],
+    "selfTime": 327812,
+    "totalTime": 327812
+  },
+  {
+    "id": 182,
+    "description": "Addon#treeFor (ember-cli-sri - styles)",
+    "subtrees": [],
+    "selfTime": 328138,
+    "totalTime": 328138
+  },
+  {
+    "id": 183,
+    "description": "Addon#treeFor (ember-data - styles)",
+    "subtrees": [],
+    "selfTime": 287128,
+    "totalTime": 287128
+  },
+  {
+    "id": 184,
+    "description": "Addon#treeFor (ember-disable-proxy-controllers - styles)",
+    "subtrees": [],
+    "selfTime": 298495,
+    "totalTime": 298495
+  },
+  {
+    "id": 185,
+    "description": "Addon#treeFor (ember-export-application-global - styles)",
+    "subtrees": [],
+    "selfTime": 321500,
+    "totalTime": 321500
+  },
+  {
+    "id": 186,
+    "description": "Funnel",
+    "subtrees": [
+      187
+    ],
+    "selfTime": 1474519,
+    "totalTime": 1505118
+  },
+  {
+    "id": 187,
+    "description": "UnwatchedDir",
+    "subtrees": [],
+    "selfTime": 7226,
+    "totalTime": 7226
+  },
+  {
+    "id": 188,
+    "description": "Concat: Vendor Styles",
+    "subtrees": [
+      169
+    ],
+    "selfTime": 1430047,
+    "totalTime": 1453054
+  },
+  {
+    "id": 189,
+    "description": "TreeMerger (otherAssetTrees)",
+    "subtrees": [
+      190,
+      191,
+      192
+    ],
+    "selfTime": 2228392,
+    "totalTime": 4778403
+  },
+  {
+    "id": 190,
+    "description": "Funnel",
+    "subtrees": [
+      11
+    ],
+    "selfTime": 991688,
+    "totalTime": 1003486
+  },
+  {
+    "id": 191,
+    "description": "Funnel",
+    "subtrees": [
+      11
+    ],
+    "selfTime": 825174,
+    "totalTime": 836367
+  },
+  {
+    "id": 192,
+    "description": "Funnel",
+    "subtrees": [
+      11
+    ],
+    "selfTime": 637300,
+    "totalTime": 647480
+  },
+  {
+    "id": 193,
+    "description": "TreeMerge (public)",
+    "subtrees": [
+      194,
+      195,
+      196,
+      198,
+      199,
+      200,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210
+    ],
+    "selfTime": 3777474,
+    "totalTime": 15334116
+  },
+  {
+    "id": 194,
+    "description": "Addon#treeFor (ember-cli-content-security-policy - public)",
+    "subtrees": [],
+    "selfTime": 307444,
+    "totalTime": 307444
+  },
+  {
+    "id": 195,
+    "description": "Addon#treeFor (live-reload-middleware - public)",
+    "subtrees": [],
+    "selfTime": 307580,
+    "totalTime": 307580
+  },
+  {
+    "id": 196,
+    "description": "Addon#treeFor (ember-cli-app-version - public)",
+    "subtrees": [
+      197
+    ],
+    "selfTime": 550931,
+    "totalTime": 1195993
+  },
+  {
+    "id": 197,
+    "description": "Addon#treeFor (ember-cli-htmlbars - public)",
+    "subtrees": [],
+    "selfTime": 631035,
+    "totalTime": 631035
+  },
+  {
+    "id": 198,
+    "description": "Addon#treeFor (ember-cli-dependency-checker - public)",
+    "subtrees": [],
+    "selfTime": 355632,
+    "totalTime": 355632
+  },
+  {
+    "id": 199,
+    "description": "Addon#treeFor (ember-cli-htmlbars - public)",
+    "subtrees": [],
+    "selfTime": 375658,
+    "totalTime": 375658
+  },
+  {
+    "id": 200,
+    "description": "Addon#treeFor (ember-cli-htmlbars-inline-precompile - public)",
+    "subtrees": [
+      201
+    ],
+    "selfTime": 976327,
+    "totalTime": 1322333
+  },
+  {
+    "id": 201,
+    "description": "Addon#treeFor (ember-cli-htmlbars - public)",
+    "subtrees": [],
+    "selfTime": 331418,
+    "totalTime": 331418
+  },
+  {
+    "id": 202,
+    "description": "Addon#treeFor (Ember CLI ic-ajax - public)",
+    "subtrees": [],
+    "selfTime": 362498,
+    "totalTime": 362498
+  },
+  {
+    "id": 203,
+    "description": "Addon#treeFor (Ember CLI QUnit - public)",
+    "subtrees": [],
+    "selfTime": 1038135,
+    "totalTime": 1038135
+  },
+  {
+    "id": 204,
+    "description": "Addon#treeFor (ember-cli-release - public)",
+    "subtrees": [],
+    "selfTime": 509210,
+    "totalTime": 509210
+  },
+  {
+    "id": 205,
+    "description": "Addon#treeFor (ember-cli-uglify - public)",
+    "subtrees": [],
+    "selfTime": 329598,
+    "totalTime": 329598
+  },
+  {
+    "id": 206,
+    "description": "Addon#treeFor (ember-cli-sri - public)",
+    "subtrees": [],
+    "selfTime": 880119,
+    "totalTime": 880119
+  },
+  {
+    "id": 207,
+    "description": "Addon#treeFor (ember-data - public)",
+    "subtrees": [],
+    "selfTime": 293472,
+    "totalTime": 293472
+  },
+  {
+    "id": 208,
+    "description": "Addon#treeFor (ember-disable-proxy-controllers - public)",
+    "subtrees": [],
+    "selfTime": 319075,
+    "totalTime": 319075
+  },
+  {
+    "id": 209,
+    "description": "Addon#treeFor (ember-export-application-global - public)",
+    "subtrees": [],
+    "selfTime": 364173,
+    "totalTime": 364173
+  },
+  {
+    "id": 210,
+    "description": "WatchedDir",
+    "subtrees": [
+      211
+    ],
+    "selfTime": 14760,
+    "totalTime": 3371995
+  },
+  {
+    "id": 211,
+    "description": "String",
+    "subtrees": [],
+    "selfTime": 0,
+    "totalTime": 0
+  },
+  {
+    "id": 212,
+    "description": "CustomReplace",
+    "subtrees": [
+      213,
+      5
+    ],
+    "selfTime": 1094931,
+    "totalTime": 1910271
+  },
+  {
+    "id": 213,
+    "description": "Funnel",
+    "subtrees": [
+      152
+    ],
+    "selfTime": 750827,
+    "totalTime": 772601
+  },
+  {
+    "id": 214,
+    "description": "TreeMerger (testFiles)",
+    "subtrees": [
+      215,
+      218,
+      219,
+      220
+    ],
+    "selfTime": 2564046,
+    "totalTime": 30709589
+  },
+  {
+    "id": 215,
+    "description": "ConcatWithMaps",
+    "subtrees": [
+      216
+    ],
+    "selfTime": 9753277,
+    "totalTime": 25256373
+  },
+  {
+    "id": 216,
+    "description": "BroccoliMergeTrees",
+    "subtrees": [
+      217,
+      160
+    ],
+    "selfTime": 1586038,
+    "totalTime": 15486374
+  },
+  {
+    "id": 217,
+    "description": "Concat: Test Support JS",
+    "subtrees": [
+      11
+    ],
+    "selfTime": 13832299,
+    "totalTime": 13843783
+  },
+  {
+    "id": 218,
+    "description": "Concat: Test Support CSS",
+    "subtrees": [
+      11
+    ],
+    "selfTime": 1462579,
+    "totalTime": 1475447
+  },
+  {
+    "id": 219,
+    "description": "Funnel",
+    "subtrees": [
+      11
+    ],
+    "selfTime": 681634,
+    "totalTime": 692673
+  },
+  {
+    "id": 220,
+    "description": "Funnel",
+    "subtrees": [
+      221
+    ],
+    "selfTime": 584824,
+    "totalTime": 610567
+  },
+  {
+    "id": 221,
+    "description": "UnwatchedDir",
+    "subtrees": [],
+    "selfTime": 8333,
+    "totalTime": 8333
+  }
+]
